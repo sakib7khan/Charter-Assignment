@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calculateRewards matches the snapshot 1`] = `
+<DocumentFragment>
+  <calculaterewards />
+</DocumentFragment>
+`;

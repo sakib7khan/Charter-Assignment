@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomerRewards Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iQQCXo bezgzY"
+    data-testid="loading-spinner"
+  >
+    Loading rewards...
+  </div>
+</DocumentFragment>
+`;

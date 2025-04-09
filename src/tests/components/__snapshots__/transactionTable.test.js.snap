@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransactionTable Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-Qotzb fbOokM"
+  >
+    <h1
+      class="sc-fYsHOw gOtxjZ"
+    >
+      Transactions for C1
+    </h1>
+    <div
+      class="sc-iQQCXo bezgzY"
+      data-testid="loading-spinner"
+    >
+      Loading transactions...
+    </div>
+  </div>
+</DocumentFragment>
+`;
